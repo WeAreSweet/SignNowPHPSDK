@@ -20,7 +20,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:WeAreSweet/RestEntityManager.git"
+            "url": "https://github.com/WeAreSweet/RestEntityManager"
         }
     ]
 }
